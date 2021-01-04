@@ -9,7 +9,7 @@ import { FooterComponent } from './footer/footer.component';
   declarations: [	
     AppComponent,
       FooterComponent
-   ],
+],
   imports: [
     BrowserModule,
     AppRoutingModule,
